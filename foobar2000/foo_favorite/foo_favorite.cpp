@@ -466,7 +466,7 @@ namespace
 
     DECLARE_COMPONENT_VERSION(
         "Favorites",
-        "1.2.0",
+        "1.0",
         "Stores favorite state in metadb_index and syncs a Favorites playlist.");
     VALIDATE_COMPONENT_FILENAME("foo_favorite.dll");
 
