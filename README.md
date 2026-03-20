@@ -69,6 +69,12 @@ Under Advanced Preferences: `Tools > Favorites`
 - Packaging script: `build.ps1`
 - `shared.dll` is bundled as a runtime dependency.
 
+## License
+
+- foobar2000 SDK: `sdk-license.txt`
+- pfc: `pfc/pfc-license.txt`
+- Third-party summary: `THIRD_PARTY_NOTICES.md`
+
 ---
 
 ## 日本語
